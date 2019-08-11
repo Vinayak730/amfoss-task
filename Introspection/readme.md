@@ -13,8 +13,6 @@ Before trying to join amfoss i learned programming required for the school sylla
 
 
 Since the Task-2 contained some challenging problems and it could be done in any language I did it in c++.
-
-
 When i did it i found the fun behind the programming and the possibility in approaching to a particular problem in multiple ways and how to edit a programme to make it more user friendly.
 
 
