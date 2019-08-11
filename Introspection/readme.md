@@ -19,6 +19,19 @@ When i did it i found the fun behind the programming and the possibility in appr
 And now am tryng to learn more programming languages like python and learning about linux
 
 
+# What are your comments and suggestions regarding the selection proce
 
+
+When I met the mentors i learned that they only direct the students on what all to do and not how to do it.
+And I thought the quote of amfoss was **"GOOGLE IT"** so even if i didnt asked any doubt to my mentor I was trying to figure my problem by myself.
+
+
+But the mentors where good other than the fact about the status update which i found difficult when i didnt do any work that day due to some reasons and i have to say i didnt do anything.
+
+
+# What is your plan for the next 6 months?
+
+
+Since i joined CSE batch i have a lot to learn since i am an amature in computer.So the next 6 months i will be exploring different things related to computer programming and engineering and having fun with coding
 
 
