@@ -8,4 +8,4 @@
 
 #### * Task-0 contains how I installed ubuntu
 #### * Task-1 contains a image file which shows that i starred the amfoss repositories
-#### * Task-2 contains 7 programmes from hackerrank and codeforce and the answers are in c++ language
+#### * Task-2 contains 6 programmes from hackerrank and codeforce and the answers are in c++ language
