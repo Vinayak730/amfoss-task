@@ -13,3 +13,6 @@ The programmes that i did are :
 |5.|staircase.cpp|**Hackerrank**|
 |6.|theatreaquare.cpp|**Hackerrank**|
 
+
+* All the solutions are done in c++ language with minimum complexity
+* All the programmes are coded in [Code Chef](https://www.codechef.com/ide) and are tested.
