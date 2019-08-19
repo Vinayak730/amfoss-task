@@ -12,5 +12,6 @@
 #### * Task-0 contains how I installed ubuntu
 #### * Task-1 contains a image file which shows that i starred the amfoss repositories
 #### * Task-2 contains 6 programmes from hackerrank and codeforce and the answers are in c++ language
+#### * Task-7 contains programme used for verifying email id
 #### * Task-8 contains a programme witch reads the image and gives the required output
 #### * Task-9 contains the link to the website I created and hosted using github 
