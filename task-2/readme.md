@@ -13,6 +13,7 @@ The programmes that i did are :
 |5.|staircase.cpp|**Hackerrank**|
 |6.|theatreaquare.cpp|**Hackerrank**|
 |7.|Time conversion.cpp|**Hackerrank**|
+|8.|codeforce 282a.txt|**Codeforce**|
 
 
 * All the solutions are done in c++ language with minimum complexity
