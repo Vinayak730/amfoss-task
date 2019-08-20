@@ -4,7 +4,7 @@
 The programmes that i did are :
 
 
-|No.|Programme|Site|
+|No.|Programme file|Site|
 |:--|:-------|:------|
 |1.|158A.cpp|**Codeforce**|
 |2.|71A.cpp|**Codeforce**|
@@ -12,6 +12,7 @@ The programmes that i did are :
 |4.|diogonaldiff.cpp|**Hackerrank**|
 |5.|staircase.cpp|**Hackerrank**|
 |6.|theatreaquare.cpp|**Hackerrank**|
+|7.|Time conversion.cpp|**Hackerrank**|
 
 
 * All the solutions are done in c++ language with minimum complexity
