@@ -10,16 +10,16 @@ int main()
     int test,x,i,j,k,a,b,s;
     cin>>test;
 
-    for(i = 0;i < test; i++)                        //Number of test cases
+    for(i = 0;i < test; i++)                     
     {
         cin >> x;
         a = 1;
         
-        for(j = 1;j < x;j++)                       //to find LCM till N
+        for(j = 1;j < x;j++)                      
         {
             b = j+1;
             s = a*b;
-            for(k = 2; k <= s;k++)                  // LCM
+            for(k = 2; k <= s;k++)                  
             {
                 if(k%a==0 && k%b==0)                
                     {
